@@ -1,3 +1,5 @@
+#The provided projects is taken from codeacademy first project. It involves listing prices and descriptions for three items. It then intorduces a customer
+who will pick two of the items. The code will then calculate sales tax at 8.8% and add it the total of the customer's furniture choosings.
 #Lovely loveseat description
 lovely_loveseat_description = """
 Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white.
