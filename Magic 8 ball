@@ -43,6 +43,7 @@ else:
 #Prompt the user to ask the quesiton (alrady defined in code)
 if name == "":
     print("Question: " + question)
+    print("Magic 8-Ball's answer: " + answer)
 
 elif question == "":
     print("The Magic 8-Ball cannot provide a fortune unless you ask it something.")
